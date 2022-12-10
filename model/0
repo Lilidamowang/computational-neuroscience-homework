@@ -1,0 +1,8 @@
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+cd model/
+lls
+ls
+vim model_rim_okvqa.py 

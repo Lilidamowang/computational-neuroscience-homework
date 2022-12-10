@@ -1,0 +1,17 @@
+ls
+cd projects/
+ls
+MMR-VQA/
+ls
+cd MMR-VQA/
+ls
+cd model/
+ls
+cd ..
+ls
+cd product/
+ls
+cd ..
+ls
+cd dataset/
+ls

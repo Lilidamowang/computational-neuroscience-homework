@@ -1,0 +1,229 @@
+ls
+cd projects/
+KIM-VQA/
+cd KIM-VQA/
+ls
+ls
+cd projects/
+cd KIM-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+cd projects/KIM-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/KIM-VQA/
+ls
+python3 main.py 
+ls
+source activate lyl_pr3.7
+ls
+cd projects/
+cd KIM-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/
+ls
+cd KIM-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+cd projects/KIM-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/KIM-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+ls
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+ls
+source activate lyl_pr3.7
+ls
+cd projects/MM
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+conda create -n frcnn
+python3 main.py 
+pip list
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/K
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+ls
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+ls
+vim main.py 
+python3 main.py 
+source activate pr_3.7
+ls
+source  activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+ls
+source activate lyl_pr3.7
+ls
+cd projects/
+cd MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+cd projects/MMR-VQA/
+ls
+source activate lyl_pr3.7
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+cd projects/MMR
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+nvidia-smi
+watch -n 3 nvidia-smi
+nvidia-smi
+watch -n 3 nvidia-smi
+python
+ls
+source activate lyl_pr3.7
+ls
+cd projects/MMR
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py --device cuda:3
+ls
+cd ..
+ls
+cd MMR-VQA/
+ls
+python3 main.py --device cuda:3
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py --device cuda:3
+ls
+cd projects/
+cd MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source acitvate lyl_pr3.7
+source activate lyl_pr3.7
+cd projects/MMR-VQA/
+python3 main.py 
+nvidia-smi
+watch -n 3 nvidia-smi
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+ls
+python3 main.py 
+ls
+python3 main.py 
+source activate lyl_pr3.7
+ls
+cd projects/MMR-VQA/
+nvidia-smi
+python3 main.py 
+nvidia-smi
+cd ..
+ls
+ls -l
+du -sh
+cd data
+du -sh
+cd ..
+cd projects/
+du -sh
+cd ..
+cd result/
+du -sh
+cd .,
+cd..
+ls
+cd ..
+cd projects/MMR-VQA/
+ls
+nvidia-smi
+python3 main.py 
